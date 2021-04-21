@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# product-listing
-=======
-![Image of Snackpass](https://www.snackpass.co/static/media/logo_round_2.d74f1dd2.png)
-
 # Snackpass Full Stack Code Challenge
 Welcome to the Snackpass Challenge. We really appreciate your time to participate. 
 
@@ -67,7 +62,7 @@ Prerequisites
 Uses Python `>3.5`,  React.js as well as npm `>6.14`
 - cd into the root directory where the files are located and install axios by running below
 ```
-npm install axios
+npm install
 ```
 - Once the download is comleted, in the root directory,  cd into api directory and run below
 ```
@@ -84,4 +79,3 @@ You could be as verbose as you would like for providing details on approach, set
 ```
 npm start
 ```
->>>>>>> a67e35c (product listing shown)
